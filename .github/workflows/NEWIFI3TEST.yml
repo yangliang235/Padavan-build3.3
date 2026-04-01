@@ -15,7 +15,7 @@ on:
         - K2P-USB
         - K2P_nano
         - NEWIFI3
-
+        - NETGEAR-BZV
       plugins:
         description: 'json format string of include configs'
         required: true
